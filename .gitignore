@@ -1,0 +1,19 @@
+# Default ignored files
+
+
+data/Tomato__Target_Spot/*
+data/Tomato__Tomato_mosaic_virus/*
+data/Tomato__Tomato_YellowLeaf__Curl_Virus/*
+data/Tomato_Bacterial_spot/*
+data/Tomato_Early_blight/*
+data/Tomato_healthy/*
+data/Tomato_Late_blight/*
+data/Tomato_Leaf_Mold/*
+data/Tomato_Septoria_leaf_spot/*
+data/Tomato_Spider_mites_Two_spotted_spider_mite/*
+
+
+saved_model/custom_model/*
+saved_model/inception_v3/*
+saved_model/mobilenet_v2/*
+saved_model/xception/*
