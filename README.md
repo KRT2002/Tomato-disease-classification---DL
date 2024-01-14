@@ -8,4 +8,4 @@ Install dataset from kaggle and extract only tomato dataset folder from this. Th
 ```bash
 pip install -r requirements.txt
 ```
-### Step 3: Download the notebook and run 
+### Step 3: Download the notebook(.ipynb) and run 
