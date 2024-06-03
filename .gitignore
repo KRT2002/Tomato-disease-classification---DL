@@ -14,6 +14,10 @@
 
 data/*
 
+TFMA/*
+.ipynb_checkpoints/*
+model-analysis/*
+samle.ipynb
 
 saved_model/custom_model/*
 saved_model/inception_v3/*
