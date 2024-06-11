@@ -19,6 +19,8 @@ TFMA/*
 model-analysis/*
 samle.ipynb
 
+static/uploads/*
+
 saved_model/custom_model/*
 saved_model/inception_v3/*
 saved_model/mobilenet_v2/*

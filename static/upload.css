@@ -1,0 +1,54 @@
+/* Reset default margin, padding, and font */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Set background color */
+}
+
+/* Container to center content and set max-width */
+.container {
+    max-width: 800px; /* Set maximum width */
+    margin: 0 auto; /* Center the container */
+    padding: 20px; /* Add padding around content */
+    background-color: #fff; /* Set background color */
+    border-radius: 8px; /* Add rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+/* Style for heading */
+h1 {
+    text-align: center; /* Center align text */
+    margin-bottom: 20px; /* Add space below */
+}
+
+/* Style for images */
+img {
+    display: block; /* Make image a block element */
+    margin: 0 auto; /* Center the image */
+    max-width: 100%; /* Make sure image doesn't overflow its container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Add rounded corners */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add box shadow */
+}
+
+
+
+/* Style for paragraphs */
+p {
+    text-align: center; /* Center align text */
+    margin-bottom: 10px; /* Add space below */
+}
+
+/* Style for links */
+a {
+    display: block; /* Make links block elements */
+    text-align: center; /* Center align text */
+    text-decoration: none; /* Remove default underline */
+    color: #007bff; /* Set link color */
+}
+
+/* Hover style for links */
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
